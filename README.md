@@ -5,3 +5,9 @@ Don't worry Its completely FREE!!
 Download the class files execute in environment of ur choice netbeans,ecllipse etc.,
 
 Code is available in two forms one is .form (gui ready) and the other is .java format .
+Include mysql jdbc .jar connecter for working of sql
+
+This project was done as part of semester assignment by :
+# Mr.BitraPurnaKoteswaraRao
+# Mr.M.Tharuneshwar Reddy
+# Mr.L.Abhishikth
